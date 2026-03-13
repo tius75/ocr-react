@@ -1,5 +1,6 @@
 {
-"name": "ocr-compare-app",
+"homepage": "https://tius75.github.io/ocr-react" 
+  "name": "ocr-compare-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
