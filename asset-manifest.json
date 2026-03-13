@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ocr-react/static/css/main.453eebfc.css",
+    "main.js": "/ocr-react/static/js/main.7a460e72.js",
+    "static/js/453.6600dbe4.chunk.js": "/ocr-react/static/js/453.6600dbe4.chunk.js",
+    "index.html": "/ocr-react/index.html",
+    "main.453eebfc.css.map": "/ocr-react/static/css/main.453eebfc.css.map",
+    "main.7a460e72.js.map": "/ocr-react/static/js/main.7a460e72.js.map",
+    "453.6600dbe4.chunk.js.map": "/ocr-react/static/js/453.6600dbe4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.453eebfc.css",
+    "static/js/main.7a460e72.js"
+  ]
+}
